@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TheOfficeQuiz</string>
+
+    <!-- First quiz question [CHAR LIMIT=4000] -->
+    <string name="question1">1. In the episode, "\"Branch Wars\"", what are the names written on Michael, Dwight, and Jim's uniforms respectively? </string>
+    <!-- If the player chooses Answer A. Kent, Joe, Madge (correct) [CHAR LIMIT=40] -->
+    <string name="question1_choice1">A. Kent, Joe, Madge</string>
+    <!-- If the player chooses Answer B. Michael, Brandon, Roy [CHAR LIMIT=50] -->
+    <string name="question1_choice2">B. Michael, Brandon, Roy</string>
+    <!-- If the player chooses Answer C. Evan, Carl, Ruth [CHAR LIMIT=50] -->
+    <string name="question1_choice3">C. Evan, Carl, Ruth </string>
+    <!-- If the player chooses D. Nate, Darryl, Madge [CHAR LIMIT=50] -->
+    <string name="question1_choice4">D. Nate, Darryl, Madge</string>
+
+    <!-- Second quiz question. [CHAR LIMIT=150] -->
+    <string name="question2">2. Finish this quote, "\"Nostalgia is truly one of the greatest human weaknesses...second only to the ______.\"" </string>
+    <!-- Edit text entry answer, "neck" (correct)[CHAR LIMIT=50] -->
+    <string name="question2_answer">neck</string>
+
+    <!-- Third quiz question. [CHAR LIMIT=150] -->
+    <string name="question3">3. In S3E10, "\"A Benihana Christmas\"",  Who takes gifts OUT of the toy donation box? (select all that apply)  </string>
+    <!-- If the player chooses answer A. Creed [CHAR LIMIT=20] -->
+    <string name="question3_choice1">A. Creed</string>
+    <!-- If the player chooses answer B. Dwight [CHAR LIMIT=20] -->
+    <string name="question3_choice2">B. Dwight</string>
+    <!-- If the player chooses answer C. Meredith [CHAR LIMIT=20] -->
+    <string name="question3_choice3">C. Meredith</string>
+    <!-- If the player chooses answer D. Michael [CHAR LIMIT=40] -->
+    <string name="question3_choice4">D. Michael</string>
+
+    <!-- Fourth quiz question. [CHAR LIMIT=150] -->
+    <string name="question4">4. In S5E22 "\"Heavy Competition\"": What does Dwight find out Michael wrote on the back of his Rolodex entry for "\"Schrute, Dwight\""?   </string>
+    <!-- If the player chooses Answer A. Assistant (to the) Regional Manager, Dunder Mifflen Scranton [CHAR LIMIT=40] -->
+    <string name="question4_choice1">A. Assistant (to the) Regional Manager, Dunder Mifflen Scranton</string>
+    <!-- If the player chooses Answer B. tall, beets (Correct) [CHAR LIMIT=50] -->
+    <string name="question4_choice2">B. tall, beets</string>
+    <!-- If the player chooses Answer C. burly, built for warehouse [CHAR LIMIT=50] -->
+    <string name="question4_choice3">C. burly, built for warehouse  </string>
+    <!-- If the player chooses D. Dog-like obedience to authority [CHAR LIMIT=50] -->
+    <string name="question4_choice4">D. Dog-like obedience to authority</string>
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
